@@ -1,0 +1,11 @@
+.app-footer {
+    background: #dcdcdc;
+    padding: .5rem 2rem;
+    text-align: right;
+}
+
+.app-footer__message {
+    color: rgb(96, 88, 88);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:x-small;
+}
