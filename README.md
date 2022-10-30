@@ -1,3 +1,4 @@
+![Logo do Markdown](src/img/layout.png)
 # Uma interface web para marcar Destinos de Interesse.
 
 Interface feita em React.
